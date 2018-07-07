@@ -1,0 +1,12 @@
+{
+  "name": "peregrinus/xangbuch",
+  "description": "Liederliste zum Evangelischen Gesangbuch",
+  "minimum-stability": "alpha",
+  "license": "gpl-3.0+",
+  "authors": [
+    {
+      "name": "Christoph Fischer",
+      "email": "chris@toph.de"
+    }
+  ]
+}
